@@ -15,5 +15,5 @@ Let me know if you have any questions or need any adjustments!
 
 Best regards,
 
-**[Your Name], Security Analyst**<br/>
-**Governance, Risk, and Compliance**
+**Michael Musoke, Security Analyst**<br/>
+**Vulnerability Management Team**
